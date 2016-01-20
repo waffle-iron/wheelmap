@@ -25,3 +25,4 @@ node_modules
 .sass-cache
 wheelmap.esproj/Project.espressostorage
 *.espressostorage
+.env
