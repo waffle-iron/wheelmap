@@ -93,6 +93,7 @@ group :test, :development do
   gem 'guard-spork'
   gem 'guard-cucumber', "1.2.2"
   gem 'pry'
+  gem 'dotenv-rails'
 end
 
 group :test do
