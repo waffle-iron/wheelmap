@@ -167,5 +167,9 @@ Tags = {
   :veterinary => :amenity,
   :video => :shop,
   :viewpoint => :tourism,
-  :zoo => :tourism
+  :zoo => :tourism,
+  # Update 2016-04-26
+  :political_party => :office,
+  :ngo => :office,
+  :association => :office,
 }

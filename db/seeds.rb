@@ -182,7 +182,11 @@ node_types = NodeType.create([
   {:category => misc,  :identifier => :company,           :osm_key => 'office',   :osm_value => 'company',          :icon => 'workoffice.png'},
   {:category => misc,  :identifier => :lawyer,            :osm_key => 'office',   :osm_value => 'lawyer',           :icon => 'court.png'},
   {:category => misc,  :identifier => :estate_agent,      :osm_key => 'office',   :osm_value => 'estate_agent',     :icon => 'house.png'},
-  {:category => misc,  :identifier => :insurance,         :osm_key => 'office',   :osm_value => 'insurance',        :icon => 'workoffice.png'}
+  {:category => misc,  :identifier => :insurance,         :osm_key => 'office',   :osm_value => 'insurance',        :icon => 'workoffice.png'},
+  # Update 2016-04-26
+  {:category => misc,  :identifier => :political_party, :osm_key => 'office', :osm_value => 'political_party', :icon => 'reception.png'},
+  {:category => misc,  :identifier => :ngo,             :osm_key => 'office', :osm_value => 'ngo',             :icon => 'group.png'},
+  {:category => misc,  :identifier => :association,     :osm_key => 'office', :osm_value => 'association',     :icon => 'group.png'}
 ])
 
 government = Category.find_by_identifier('government')

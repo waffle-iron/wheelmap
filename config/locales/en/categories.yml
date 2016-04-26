@@ -80,6 +80,10 @@ en:
         lawyer: Lawyer
         place_of_worship: "Place of worship"
         toilets: Toilets
+        # Update 2016-04-26
+        association: Association
+        ngo: "Non-government organisation"
+        political_party: "Political party office"
       money_post:
         atm: ATM
         bank: Bank

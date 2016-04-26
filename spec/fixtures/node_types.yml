@@ -515,3 +515,15 @@ tag_viewpoint:
 tag_zoo:
   osm_key: tourism
   osm_value: zoo
+
+tag_political_party:
+  osm_key: office
+  osm_value: political_party
+
+tag_ngo:
+  osm_key: office
+  osm_value: ngo
+
+tag_association:
+  osm_key: office
+  osm_value: association
