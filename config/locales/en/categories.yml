@@ -154,6 +154,22 @@ en:
         toys: Toys
         travel_agency: "Travel agency"
         video: "Video rental store"
+        # Update 2016-04-26
+        antiques: Antiques
+        copyshop: "Copy shop"
+        erotic: "Sex shop"
+        funeral_directors: "Funeral home"
+        art: "Gallery shop"
+        greengrocer: Greengrocer
+        interior_decoration: "Interior design shop"
+        mobile_phone: "Mobile phone shop"
+        music: "Record store"
+        musical_instrument: "Musical instrument shop"
+        newsagent: "News agent"
+        tailor: Tailor
+        tea: "Tea supply"
+        tobacco: "Tobacco shop"
+        variety_store: "Discount store"
       sport:
         pitch: "Sports field"
         sports_centre: "Sports centre"

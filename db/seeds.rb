@@ -137,7 +137,23 @@ node_types = NodeType.create([
   {:category => shopping,  :identifier => :outdoor,           :osm_key => 'shop',    :osm_value => 'outdoor',          :icon => 'hiking.png'},
   {:category => shopping,  :identifier => :organic,           :osm_key => 'shop',    :osm_value => 'organic',          :icon => 'restaurant_vegetarian.png'},
   {:category => shopping,  :identifier => :pet,               :osm_key => 'shop',    :osm_value => 'pet',              :icon => 'cat.png'},
-  {:category => shopping,  :identifier => :fabric,            :osm_key => 'shop',    :osm_value => 'fabric',           :icon => 'textiles.png'}
+  {:category => shopping,  :identifier => :fabric,            :osm_key => 'shop',    :osm_value => 'fabric',           :icon => 'textiles.png'},
+  # Update 2016-04-26
+  {:category => shopping,  :identifier => :mobile_phone,        :osm_key => 'shop', :osm_value => 'mobile_phone',        :icon => 'phones.png'},
+  {:category => shopping,  :identifier => :greengrocer,         :osm_key => 'shop', :osm_value => 'greengrocer',         :icon => 'apple.png'},
+  {:category => shopping,  :identifier => :variety_store,       :osm_key => 'shop', :osm_value => 'variety_store',       :icon => 'tag_label.png'},
+  {:category => shopping,  :identifier => :newsagent,           :osm_key => 'shop', :osm_value => 'newsagent',           :icon => 'newsagent.png'},
+  {:category => shopping,  :identifier => :music,               :osm_key => 'shop', :osm_value => 'music',               :icon => 'classical_music.png'},
+  {:category => shopping,  :identifier => :musical_instrument,  :osm_key => 'shop', :osm_value => 'musical_instrument',  :icon => 'jazz_club.png'},
+  {:category => shopping,  :identifier => :antiques,            :osm_key => 'shop', :osm_value => 'antiques',            :icon => 'art_museum_2.png'},
+  {:category => shopping,  :identifier => :erotic,              :osm_key => 'shop', :osm_value => 'erotic',              :icon => 'love_interest.png'},
+  {:category => shopping,  :identifier => :tailor,              :osm_key => 'shop', :osm_value => 'tailor',              :icon => 'tailor.png'},
+  {:category => shopping,  :identifier => :interior_decoration, :osm_key => 'shop', :osm_value => 'interior_decoration', :icon => 'crafts_museum.png'},
+  {:category => shopping,  :identifier => :art,                 :osm_key => 'shop', :osm_value => 'art',                 :icon => 'museum_art.png'},
+  {:category => shopping,  :identifier => :copyshop,            :osm_key => 'shop', :osm_value => 'copyshop',            :icon => 'printer.png'},
+  {:category => shopping,  :identifier => :tobacco,             :osm_key => 'shop', :osm_value => 'tobacco',             :icon => 'smoking.png'},
+  {:category => shopping,  :identifier => :funeral_directors,   :osm_key => 'shop', :osm_value => 'funeral_directors',   :icon => 'crematorium.png'},
+  {:category => shopping,  :identifier => :tea,                 :osm_key => 'shop', :osm_value => 'tea',                 :icon => 'tea_house.png'}
 ])
 
 sport = Category.find_by_identifier('sport')

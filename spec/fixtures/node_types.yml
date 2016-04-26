@@ -514,4 +514,65 @@ tag_viewpoint:
 
 tag_zoo:
   osm_key: tourism
-  osm_value: zoo
+  osm_vlue: zoo
+
+# Update 2016-04-26
+tag_mobile_phone:
+  osm_key: shop
+  osm_value: mobile_phone
+
+tag_greengrocer:
+  osm_key: shop
+  osm_value: greengrocer
+
+tag_variety_store:
+  osm_key: shop
+  osm_value: variety_store
+
+tag_newsagent:
+  osm_key: shop
+  osm_value: newsagent
+
+tag_music:
+  osm_key: shop
+  osm_value: music
+
+tag_musical_instrument:
+  osm_key: shop
+  osm_value: musical_instrument
+
+tag_antiques:
+  osm_key: shop
+  osm_value: antiques
+
+tag_erotic:
+  osm_key: shop
+  osm_value: erotic
+
+tag_tailor:
+  osm_key: shop
+  osm_value: tailor
+
+tag_interior_decoration:
+  osm_key: shop
+  osm_value: interior_decoration
+
+tag_art:
+  osm_key: shop
+  osm_value: art
+
+tag_copyshop:
+  osm_key: shop
+  osm_value: copyshop
+
+tag_tobacco:
+  osm_key: shop
+  osm_value: tobacco
+
+tag_funeral_directors:
+  osm_key: shop
+  osm_value: funeral_directors
+
+tag_tea:
+  osm_key: shop
+  osm_value: tea

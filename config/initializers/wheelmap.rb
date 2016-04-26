@@ -167,5 +167,21 @@ Tags = {
   :veterinary => :amenity,
   :video => :shop,
   :viewpoint => :tourism,
-  :zoo => :tourism
+  :zoo => :tourism,
+  # Update 2016-04-26
+  :mobile_phone => :shop,
+  :greengrocer => :shop,
+  :variety_store => :shop,
+  :newsagent => :shop,
+  :music => :shop,
+  :musical_instrument => :shop,
+  :antiques => :shop,
+  :erotic => :shop,
+  :tailor => :shop,
+  :interior_decoration => :shop,
+  :art => :shop,
+  :copyshop => :shop,
+  :tobacco => :shop,
+  :funeral_directors => :shop,
+  :tea => :shop
 }
