@@ -51,6 +51,8 @@ en:
         police: Police
         public_building: "Public building"
         townhall: Town hall
+        # Update 2016-04-26
+        employment_agency: "Employment agency"
       health:
         dentist: Dentist
         doctors: Doctor

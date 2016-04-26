@@ -515,3 +515,8 @@ tag_viewpoint:
 tag_zoo:
   osm_key: tourism
   osm_value: zoo
+
+# Update 2016-04-26
+tag_employment_agency:
+  osm_key: office
+  osm_value: employment_agency

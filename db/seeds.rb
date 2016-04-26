@@ -191,7 +191,9 @@ node_types = NodeType.create([
   {:category => government,  :identifier => :townhall,        :osm_key => 'amenity',  :osm_value => 'townhall',         :icon => 'bigcity.png'},
   {:category => government,  :identifier => :embassy,         :osm_key => 'amenity',  :osm_value => 'embassy',          :icon => 'embassy.png'},
   {:category => government,  :identifier => :police,          :osm_key => 'amenity',  :osm_value => 'police',           :icon => 'police.png'},
-  {:category => government,  :identifier => :government,      :osm_key => 'office',   :osm_value => 'government',        :icon => 'office-building.png'}
+  {:category => government,  :identifier => :government,      :osm_key => 'office',   :osm_value => 'government',        :icon => 'office-building.png'},
+  # Update 2016-04-26
+  {:category => government, :identifier => :employment_agency, :osm_key => 'office', :osm_value => 'employment_agency', :icon => 'employment_agency.png'}
 ])
 
 health = Category.find_by_identifier('health')
